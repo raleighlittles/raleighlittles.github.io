@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a recent graduate of UC Santa Barbara with a Bachelors in Mathematics. I enjoy learning about software and am interested in pursuing a career as a software engineer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Click the link below to email me.
+
+[raleighlittles@gmail.com](mailto:raleighlittles@gmail.com)
